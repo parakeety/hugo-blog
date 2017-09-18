@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nsdateformatter on My New Hugo Site</title>
+    <link>https://parakeety.github.io/hugo-blog/tags/nsdateformatter/</link>
+    <description>Recent content in Nsdateformatter on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Oct 2014 11:40:17 -0700</lastBuildDate>
+    
+	<atom:link href="https://parakeety.github.io/hugo-blog/tags/nsdateformatter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NSDateFormatterの再利用</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/reuse-nsdateformatter/</link>
+      <pubDate>Mon, 27 Oct 2014 11:40:17 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/reuse-nsdateformatter/</guid>
+      <description>&lt;p&gt;&lt;code&gt;NSDateFormatter&lt;/code&gt;を含む&lt;code&gt;NSFormatter&lt;/code&gt;クラスは、生成コストが高いのでなるべく再利用します。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

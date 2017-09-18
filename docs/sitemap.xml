@@ -3,17 +3,452 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/morning-cafe/</loc>
+    <lastmod>2017-09-13T21:56:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/mercari/</loc>
+    <lastmod>2017-01-01T16:02:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/update-countdown/</loc>
+    <lastmod>2016-02-15T13:54:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/googlefontsios/</loc>
+    <lastmod>2015-08-07T22:06:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/hexo-memo/</loc>
+    <lastmod>2015-08-07T22:01:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/restart/</loc>
+    <lastmod>2015-06-16T14:17:31+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/nserror-and-nsexception/</loc>
+    <lastmod>2014-12-30T17:23:39-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/magicalrecord/</loc>
+    <lastmod>2014-12-17T01:29:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/portfolio/</loc>
+    <lastmod>2014-11-22T01:22:05-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/reuse-nsdateformatter/</loc>
+    <lastmod>2014-10-27T11:40:17-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/ag/</loc>
+    <lastmod>2014-10-18T16:02:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/xctestexpectation/</loc>
+    <lastmod>2014-10-06T23:16:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/forget-programming-syntax/</loc>
+    <lastmod>2014-09-27T16:06:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/cocoapods-trunk/</loc>
+    <lastmod>2014-09-18T13:22:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/synthesize/</loc>
+    <lastmod>2014-08-30T17:24:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/prefer-english-operator-merged-to-coffeelint/</loc>
+    <lastmod>2014-08-23T10:55:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/dev-tools/</loc>
+    <lastmod>2014-07-05T02:42:35-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/detect-unicode-number/</loc>
+    <lastmod>2014-06-30T00:26:10-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/nend-cocoapods-private-pod/</loc>
+    <lastmod>2014-06-22T00:57:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/mobile-web-design/</loc>
+    <lastmod>2014-06-15T01:11:03-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/coffeelint-prefer-english-operator/</loc>
+    <lastmod>2014-05-31T22:28:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/ios-learned-lessons/</loc>
+    <lastmod>2014-05-25T02:32:41-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/protected-property/</loc>
+    <lastmod>2014-05-18T21:39:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/private-property-vs-private-ivar/</loc>
+    <lastmod>2014-05-11T03:46:29-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/property-attributes-in-objective-c/</loc>
+    <lastmod>2014-05-04T02:47:35-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/base64-encoding/</loc>
+    <lastmod>2014-04-01T23:49:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/switch/</loc>
+    <lastmod>2014-03-31T22:21:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/xctest-refactoring/</loc>
+    <lastmod>2014-03-28T16:19:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/first-post/</loc>
+    <lastmod>2014-03-27T23:07:15-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/ack/</loc>
+    <lastmod>2014-10-18T16:02:07-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/ag/</loc>
+    <lastmod>2014-10-18T16:02:07-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/app/</loc>
+    <lastmod>2016-02-15T13:54:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/base64/</loc>
+    <lastmod>2014-04-01T23:49:45-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://parakeety.github.io/hugo-blog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/cocoapods/</loc>
+    <lastmod>2014-09-18T13:22:51-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/cocoapods-trunk/</loc>
+    <lastmod>2014-09-18T13:22:51-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/coffeelint/</loc>
+    <lastmod>2014-08-23T10:55:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/coffeelint-prefer-english-operator/</loc>
+    <lastmod>2014-08-23T10:55:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/coffeescript/</loc>
+    <lastmod>2014-05-31T22:28:05-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/countdown/</loc>
+    <lastmod>2016-02-15T13:54:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/custom-rule/</loc>
+    <lastmod>2014-05-31T22:28:05-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/ghq/</loc>
+    <lastmod>2014-07-05T02:42:35-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/github/</loc>
+    <lastmod>2014-08-23T10:55:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/google-fonts/</loc>
+    <lastmod>2015-08-07T22:06:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/google-fonts-ios/</loc>
+    <lastmod>2015-08-07T22:06:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/googlefontsios/</loc>
+    <lastmod>2015-08-07T22:06:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/grep/</loc>
+    <lastmod>2014-10-18T16:02:07-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/hexo/</loc>
+    <lastmod>2015-08-07T22:01:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/ios/</loc>
+    <lastmod>2016-02-15T13:54:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/jobchange/</loc>
+    <lastmod>2017-01-01T16:02:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/magical-record/</loc>
+    <lastmod>2014-12-17T01:29:52-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/magicalrecord/</loc>
+    <lastmod>2014-12-17T01:29:52-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/memo/</loc>
+    <lastmod>2015-08-07T22:01:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/middleman/</loc>
+    <lastmod>2014-11-22T01:22:05-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/mobile/</loc>
+    <lastmod>2014-06-15T01:11:03-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://parakeety.github.io/hugo-blog/</loc>
+    <lastmod>2017-09-13T21:56:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/namecheap/</loc>
+    <lastmod>2014-11-22T01:22:05-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/nend/</loc>
+    <lastmod>2014-06-22T00:57:48-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/npm/</loc>
+    <lastmod>2014-05-31T22:28:05-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/nsdateformatter/</loc>
+    <lastmod>2014-10-27T11:40:17-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/nserror/</loc>
+    <lastmod>2014-12-30T17:23:39-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/nsexception/</loc>
+    <lastmod>2014-12-30T17:23:39-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/objective-c/</loc>
+    <lastmod>2014-12-30T17:23:39-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/oss/</loc>
+    <lastmod>2014-08-23T10:55:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/peco/</loc>
+    <lastmod>2014-07-05T02:42:35-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/portfolio/</loc>
+    <lastmod>2014-11-22T01:22:05-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/</loc>
+    <lastmod>2017-09-13T21:56:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/programming/</loc>
+    <lastmod>2014-09-27T16:06:37-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/python/</loc>
+    <lastmod>2014-06-30T00:26:10-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/s3/</loc>
+    <lastmod>2014-11-22T01:22:05-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/safari/</loc>
+    <lastmod>2014-06-15T01:11:03-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/swift/</loc>
+    <lastmod>2014-12-30T17:23:39-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://parakeety.github.io/hugo-blog/tags/</loc>
+    <lastmod>2014-10-18T16:02:07-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/tig/</loc>
+    <lastmod>2014-07-05T02:42:35-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/unicode/</loc>
+    <lastmod>2014-06-30T00:26:10-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/unit-test/</loc>
+    <lastmod>2014-03-28T16:19:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/web/</loc>
+    <lastmod>2014-06-15T01:11:03-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/xctest/</loc>
+    <lastmod>2014-10-06T23:16:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/xctestexpectation/</loc>
+    <lastmod>2014-10-06T23:16:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/z/</loc>
+    <lastmod>2014-07-05T02:42:35-07:00</lastmod>
     <priority>0</priority>
   </url>
   

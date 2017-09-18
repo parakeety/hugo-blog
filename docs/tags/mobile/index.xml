@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile on My New Hugo Site</title>
+    <link>https://parakeety.github.io/hugo-blog/tags/mobile/</link>
+    <description>Recent content in Mobile on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jun 2014 01:11:03 -0700</lastBuildDate>
+    
+	<atom:link href="https://parakeety.github.io/hugo-blog/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>モバイル向けのウェブサイトを作る上でのTips</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/mobile-web-design/</link>
+      <pubDate>Sun, 15 Jun 2014 01:11:03 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/mobile-web-design/</guid>
+      <description>&lt;h2 id=&#34;meta-tagを追加する&#34;&gt;meta tagを追加する&lt;/h2&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt;内に以下のタグを追加する&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, initial-scale=1&amp;quot;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;width=device-width&lt;/code&gt;は&lt;code&gt;viewport&lt;/code&gt;の幅をデバイスの幅に合わせてくれます&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;initial-scale=1&lt;/code&gt;はページのロード時のズームを一倍に設定します。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;user-scalable=no&lt;/code&gt;で、ズームができなくするようにもできます。が、モバイル端末の向きを変えたりして、ズームが変わった時に、ユーザーが元のズームに戻す方法がなくなるので、個人的には設定しない方が良いかなと感じています。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

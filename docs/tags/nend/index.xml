@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nend on My New Hugo Site</title>
+    <link>https://parakeety.github.io/hugo-blog/tags/nend/</link>
+    <description>Recent content in Nend on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jun 2014 00:57:48 -0700</lastBuildDate>
+    
+	<atom:link href="https://parakeety.github.io/hugo-blog/tags/nend/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>nend SDKをCocoaPodsのPrivate Podsとして管理する</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/nend-cocoapods-private-pod/</link>
+      <pubDate>Sun, 22 Jun 2014 00:57:48 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/nend-cocoapods-private-pod/</guid>
+      <description>&lt;p&gt;iphoneアプリに表示する広告として、&lt;a href=&#34;http://nend.net/&#34;&gt;nend&lt;/a&gt;を使っているのですが、いかんせんCocoaPodsに対応していないため、&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;新しいバージョンが出た時&lt;/li&gt;
+&lt;li&gt;新しいプロジェクトに追加する時&lt;/li&gt;
+&lt;li&gt;新しいマシンにした時&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;に毎回手動でライブラリをダウンロードやら、追加しないといけません。「3回繰り返したら自動化」に倣い、自動化する事にしました。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

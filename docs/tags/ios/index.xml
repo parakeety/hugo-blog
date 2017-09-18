@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ios on My New Hugo Site</title>
+    <link>https://parakeety.github.io/hugo-blog/tags/ios/</link>
+    <description>Recent content in Ios on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Feb 2016 13:54:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://parakeety.github.io/hugo-blog/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>カウントダウンアプリを更新</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/update-countdown/</link>
+      <pubDate>Mon, 15 Feb 2016 13:54:44 +0000</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/update-countdown/</guid>
+      <description>&lt;p&gt;2012年に作ってそのままにしていた&lt;a href=&#34;https://itunes.apple.com/us/app/badge-countdown/id507014333?mt=8&#34;&gt;Badge Countdown&lt;/a&gt;という、バッジで残り日数をカウントダウンできるアプリを更新しました。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>GoogleFontsiOS</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/googlefontsios/</link>
+      <pubDate>Fri, 07 Aug 2015 22:06:58 +0000</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/googlefontsios/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/parakeety/GoogleFontsiOS&#34;&gt;GoogleFontsiOS&lt;/a&gt;というライブラリを公開しました。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NSErrorとNSException</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/nserror-and-nsexception/</link>
+      <pubDate>Tue, 30 Dec 2014 17:23:39 -0800</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/nserror-and-nsexception/</guid>
+      <description>&lt;p&gt;Cocoaには、エラーが起きた時の対処方法として、&lt;code&gt;NSError&lt;/code&gt;と&lt;code&gt;NSException&lt;/code&gt;があります。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Core Dataで書かれたコードをMagicalRecordで置き換えた</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/magicalrecord/</link>
+      <pubDate>Wed, 17 Dec 2014 01:29:52 -0800</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/magicalrecord/</guid>
+      <description>&lt;p&gt;昔作ったアプリを今修正しているのですが、Core Data周りのコードが書くのが辛かったので、&lt;a href=&#34;https://github.com/magicalpanda/MagicalRecord&#34;&gt;MagicalRecord&lt;/a&gt;に移行しました。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NSDateFormatterの再利用</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/reuse-nsdateformatter/</link>
+      <pubDate>Mon, 27 Oct 2014 11:40:17 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/reuse-nsdateformatter/</guid>
+      <description>&lt;p&gt;&lt;code&gt;NSDateFormatter&lt;/code&gt;を含む&lt;code&gt;NSFormatter&lt;/code&gt;クラスは、生成コストが高いのでなるべく再利用します。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>XCTestExpectation</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/xctestexpectation/</link>
+      <pubDate>Mon, 06 Oct 2014 23:16:00 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/xctestexpectation/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;p&gt;&lt;code&gt;XCTestExpectation&lt;/code&gt;とは、xcode6にて追加された非同期テスト用のAPIです。
+これまで、非同期な処理のテストをするのにGCDのAPIを使ったり、&lt;a href=&#34;https://github.com/travisjeffery/TRVSMonitor&#34;&gt;TRVSMonitor&lt;/a&gt;等のライブラリを使う必要がありましたが、今後は&lt;code&gt;XCTestExpectation&lt;/code&gt;を使うことができます。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>cocoapods-trunk</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/cocoapods-trunk/</link>
+      <pubDate>Thu, 18 Sep 2014 13:22:51 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/cocoapods-trunk/</guid>
+      <description>&lt;p&gt;以前&lt;a href=&#34;http://parakeety.github.io/blog/2014/04/27/registration-process-to-cocoapods-spec/&#34;&gt;cocoapods specへの登録方法&lt;/a&gt;を紹介しましたが、&lt;a href=&#34;http://blog.cocoapods.org/CocoaPods-Trunk/&#34;&gt;Cocoapods trunk&lt;/a&gt;の登場によって、やり方が変わったので、新しい方法を紹介します。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>synthesizeはいつ書く必要があるか</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/synthesize/</link>
+      <pubDate>Sat, 30 Aug 2014 17:24:49 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/synthesize/</guid>
+      <description>&lt;p&gt;compilerの進化に合わせて、objective-cにおける&lt;code&gt;property&lt;/code&gt;の書き方も変化してきましたが、今回は&lt;code&gt;synthesize&lt;/code&gt;について。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>nend SDKをCocoaPodsのPrivate Podsとして管理する</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/nend-cocoapods-private-pod/</link>
+      <pubDate>Sun, 22 Jun 2014 00:57:48 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/nend-cocoapods-private-pod/</guid>
+      <description>&lt;p&gt;iphoneアプリに表示する広告として、&lt;a href=&#34;http://nend.net/&#34;&gt;nend&lt;/a&gt;を使っているのですが、いかんせんCocoaPodsに対応していないため、&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;新しいバージョンが出た時&lt;/li&gt;
+&lt;li&gt;新しいプロジェクトに追加する時&lt;/li&gt;
+&lt;li&gt;新しいマシンにした時&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;に毎回手動でライブラリをダウンロードやら、追加しないといけません。「3回繰り返したら自動化」に倣い、自動化する事にしました。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>アプリやiosライブラリを作って感じたこと</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/ios-learned-lessons/</link>
+      <pubDate>Sun, 25 May 2014 02:32:41 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/ios-learned-lessons/</guid>
+      <description>&lt;h2 id=&#34;viewは最初の設計でうまくいかない事が多い&#34;&gt;Viewは最初の設計でうまくいかない事が多い&lt;/h2&gt;
+
+&lt;p&gt;iOSにおけるViewは様々な制約(subclassしてはいけない、subclassしないといけない)があり、最初にしっかり設計しても、ハウルの動く城の様につぎはぎになってしまう事が多いです。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>objective-cにおけるprotectedなpropertyの定義方法</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/protected-property/</link>
+      <pubDate>Sun, 18 May 2014 21:39:37 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/protected-property/</guid>
+      <description>&lt;p&gt;privateな&lt;code&gt;property&lt;/code&gt;は&lt;code&gt;class extension&lt;/code&gt;を使えば良いですが、&lt;code&gt;protected&lt;/code&gt;、即ち&lt;code&gt;subclass&lt;/code&gt;からもアクセスできる&lt;code&gt;property&lt;/code&gt;が欲しい場合どうするか。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tig on My New Hugo Site</title>
+    <link>https://parakeety.github.io/hugo-blog/tags/tig/</link>
+    <description>Recent content in Tig on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Jul 2014 02:42:35 -0700</lastBuildDate>
+    
+	<atom:link href="https://parakeety.github.io/hugo-blog/tags/tig/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>開発ツール</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/dev-tools/</link>
+      <pubDate>Sat, 05 Jul 2014 02:42:35 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/dev-tools/</guid>
+      <description>&lt;p&gt;仕事で色々inputはしているのだが、それをきれいにまとめる、足りない分を調査する時間が中々取れていない。jsでの依存関係解決の話、moduleの話(commonjs, AMD, UMD)、&lt;a href=&#34;https://github.com/substack/node-browserify&#34;&gt;browserify&lt;/a&gt;とネタは溜まっているので、追々記事にしていきたいと思います。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

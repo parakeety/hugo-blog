@@ -6,9 +6,433 @@
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 18 Oct 2014 16:02:07 -0700</lastBuildDate>
     
 	<atom:link href="https://parakeety.github.io/hugo-blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ack</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/ack/</link>
+      <pubDate>Sat, 18 Oct 2014 16:02:07 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/ack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ag</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/ag/</link>
+      <pubDate>Sat, 18 Oct 2014 16:02:07 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/ag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>App</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/app/</link>
+      <pubDate>Mon, 15 Feb 2016 13:54:44 +0000</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Base64</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/base64/</link>
+      <pubDate>Tue, 01 Apr 2014 23:49:45 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/base64/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cocoapods</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/cocoapods/</link>
+      <pubDate>Thu, 18 Sep 2014 13:22:51 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/cocoapods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cocoapods Trunk</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/cocoapods-trunk/</link>
+      <pubDate>Thu, 18 Sep 2014 13:22:51 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/cocoapods-trunk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coffeelint</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/coffeelint/</link>
+      <pubDate>Sat, 23 Aug 2014 10:55:47 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/coffeelint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coffeelint Prefer English Operator</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/coffeelint-prefer-english-operator/</link>
+      <pubDate>Sat, 23 Aug 2014 10:55:47 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/coffeelint-prefer-english-operator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coffeescript</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/coffeescript/</link>
+      <pubDate>Sat, 31 May 2014 22:28:05 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/coffeescript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Countdown</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/countdown/</link>
+      <pubDate>Mon, 15 Feb 2016 13:54:44 +0000</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/countdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Rule</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/custom-rule/</link>
+      <pubDate>Sat, 31 May 2014 22:28:05 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/custom-rule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ghq</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/ghq/</link>
+      <pubDate>Sat, 05 Jul 2014 02:42:35 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/ghq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/github/</link>
+      <pubDate>Sat, 23 Aug 2014 10:55:47 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Fonts</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/google-fonts/</link>
+      <pubDate>Fri, 07 Aug 2015 22:06:58 +0000</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/google-fonts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Fonts Ios</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/google-fonts-ios/</link>
+      <pubDate>Fri, 07 Aug 2015 22:06:58 +0000</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/google-fonts-ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Googlefontsios</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/googlefontsios/</link>
+      <pubDate>Fri, 07 Aug 2015 22:06:58 +0000</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/googlefontsios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grep</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/grep/</link>
+      <pubDate>Sat, 18 Oct 2014 16:02:07 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/grep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hexo</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/hexo/</link>
+      <pubDate>Fri, 07 Aug 2015 22:01:39 +0000</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/hexo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ios</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/ios/</link>
+      <pubDate>Mon, 15 Feb 2016 13:54:44 +0000</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jobchange</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/jobchange/</link>
+      <pubDate>Sun, 01 Jan 2017 16:02:07 +0000</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/jobchange/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magical Record</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/magical-record/</link>
+      <pubDate>Wed, 17 Dec 2014 01:29:52 -0800</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/magical-record/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magicalrecord</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/magicalrecord/</link>
+      <pubDate>Wed, 17 Dec 2014 01:29:52 -0800</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/magicalrecord/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memo</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/memo/</link>
+      <pubDate>Fri, 07 Aug 2015 22:01:39 +0000</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/memo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Middleman</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/middleman/</link>
+      <pubDate>Sat, 22 Nov 2014 01:22:05 -0800</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/middleman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/mobile/</link>
+      <pubDate>Sun, 15 Jun 2014 01:11:03 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Namecheap</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/namecheap/</link>
+      <pubDate>Sat, 22 Nov 2014 01:22:05 -0800</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/namecheap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nend</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/nend/</link>
+      <pubDate>Sun, 22 Jun 2014 00:57:48 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/nend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Npm</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/npm/</link>
+      <pubDate>Sat, 31 May 2014 22:28:05 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/npm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nsdateformatter</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/nsdateformatter/</link>
+      <pubDate>Mon, 27 Oct 2014 11:40:17 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/nsdateformatter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nserror</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/nserror/</link>
+      <pubDate>Tue, 30 Dec 2014 17:23:39 -0800</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/nserror/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nsexception</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/nsexception/</link>
+      <pubDate>Tue, 30 Dec 2014 17:23:39 -0800</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/nsexception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Objective C</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/objective-c/</link>
+      <pubDate>Tue, 30 Dec 2014 17:23:39 -0800</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/objective-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oss</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/oss/</link>
+      <pubDate>Sat, 23 Aug 2014 10:55:47 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/oss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peco</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/peco/</link>
+      <pubDate>Sat, 05 Jul 2014 02:42:35 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/peco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/portfolio/</link>
+      <pubDate>Sat, 22 Nov 2014 01:22:05 -0800</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/programming/</link>
+      <pubDate>Sat, 27 Sep 2014 16:06:37 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/python/</link>
+      <pubDate>Mon, 30 Jun 2014 00:26:10 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S3</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/s3/</link>
+      <pubDate>Sat, 22 Nov 2014 01:22:05 -0800</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/s3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safari</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/safari/</link>
+      <pubDate>Sun, 15 Jun 2014 01:11:03 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/safari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/swift/</link>
+      <pubDate>Tue, 30 Dec 2014 17:23:39 -0800</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/swift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tig</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/tig/</link>
+      <pubDate>Sat, 05 Jul 2014 02:42:35 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/tig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unicode</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/unicode/</link>
+      <pubDate>Mon, 30 Jun 2014 00:26:10 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/unicode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unit Test</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/unit-test/</link>
+      <pubDate>Fri, 28 Mar 2014 16:19:32 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/unit-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/web/</link>
+      <pubDate>Sun, 15 Jun 2014 01:11:03 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xctest</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/xctest/</link>
+      <pubDate>Mon, 06 Oct 2014 23:16:00 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/xctest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xctestexpectation</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/xctestexpectation/</link>
+      <pubDate>Mon, 06 Oct 2014 23:16:00 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/xctestexpectation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Z</title>
+      <link>https://parakeety.github.io/hugo-blog/tags/z/</link>
+      <pubDate>Sat, 05 Jul 2014 02:42:35 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/tags/z/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

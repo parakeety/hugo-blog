@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on My New Hugo Site</title>
+    <link>https://parakeety.github.io/hugo-blog/tags/programming/</link>
+    <description>Recent content in Programming on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Sep 2014 16:06:37 -0700</lastBuildDate>
+    
+	<atom:link href="https://parakeety.github.io/hugo-blog/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>コード書かないとその言語のシンタックスを忘れる</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/forget-programming-syntax/</link>
+      <pubDate>Sat, 27 Sep 2014 16:06:37 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/forget-programming-syntax/</guid>
+      <description>&lt;p&gt;例え何年も書いているプログラミング言語でも、しばらく書いていないと、どうしても忘れしまうのが悩みの種でした。
+(&lt;a href=&#34;http://programmers.stackexchange.com/questions/67750/can-one-forget-programming-if-it-is-not-practiced-for-some-time&#34;&gt;どうやら自分だけではなかったようです。&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

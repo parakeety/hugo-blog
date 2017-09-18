@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Objective C on My New Hugo Site</title>
+    <link>https://parakeety.github.io/hugo-blog/tags/objective-c/</link>
+    <description>Recent content in Objective C on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Dec 2014 17:23:39 -0800</lastBuildDate>
+    
+	<atom:link href="https://parakeety.github.io/hugo-blog/tags/objective-c/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NSErrorとNSException</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/nserror-and-nsexception/</link>
+      <pubDate>Tue, 30 Dec 2014 17:23:39 -0800</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/nserror-and-nsexception/</guid>
+      <description>&lt;p&gt;Cocoaには、エラーが起きた時の対処方法として、&lt;code&gt;NSError&lt;/code&gt;と&lt;code&gt;NSException&lt;/code&gt;があります。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NSDateFormatterの再利用</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/reuse-nsdateformatter/</link>
+      <pubDate>Mon, 27 Oct 2014 11:40:17 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/reuse-nsdateformatter/</guid>
+      <description>&lt;p&gt;&lt;code&gt;NSDateFormatter&lt;/code&gt;を含む&lt;code&gt;NSFormatter&lt;/code&gt;クラスは、生成コストが高いのでなるべく再利用します。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>synthesizeはいつ書く必要があるか</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/synthesize/</link>
+      <pubDate>Sat, 30 Aug 2014 17:24:49 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/synthesize/</guid>
+      <description>&lt;p&gt;compilerの進化に合わせて、objective-cにおける&lt;code&gt;property&lt;/code&gt;の書き方も変化してきましたが、今回は&lt;code&gt;synthesize&lt;/code&gt;について。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>アプリやiosライブラリを作って感じたこと</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/ios-learned-lessons/</link>
+      <pubDate>Sun, 25 May 2014 02:32:41 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/ios-learned-lessons/</guid>
+      <description>&lt;h2 id=&#34;viewは最初の設計でうまくいかない事が多い&#34;&gt;Viewは最初の設計でうまくいかない事が多い&lt;/h2&gt;
+
+&lt;p&gt;iOSにおけるViewは様々な制約(subclassしてはいけない、subclassしないといけない)があり、最初にしっかり設計しても、ハウルの動く城の様につぎはぎになってしまう事が多いです。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>objective-cにおけるprotectedなpropertyの定義方法</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/protected-property/</link>
+      <pubDate>Sun, 18 May 2014 21:39:37 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/protected-property/</guid>
+      <description>&lt;p&gt;privateな&lt;code&gt;property&lt;/code&gt;は&lt;code&gt;class extension&lt;/code&gt;を使えば良いですが、&lt;code&gt;protected&lt;/code&gt;、即ち&lt;code&gt;subclass&lt;/code&gt;からもアクセスできる&lt;code&gt;property&lt;/code&gt;が欲しい場合どうするか。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>private property vs privateなインスタンス変数</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/private-property-vs-private-ivar/</link>
+      <pubDate>Sun, 11 May 2014 03:46:29 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/private-property-vs-private-ivar/</guid>
+      <description>&lt;p&gt;外部から隠蔽したい状態を保持するには、privateな&lt;code&gt;property&lt;/code&gt;とprivateなインスタンス変数と2通りのやり方があります。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>objective-cでNSStringをbase64 encode</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/base64-encoding/</link>
+      <pubDate>Tue, 01 Apr 2014 23:49:45 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/base64-encoding/</guid>
+      <description>&lt;p&gt;ios7から、&lt;code&gt;NSData&lt;/code&gt;に&lt;code&gt;base64EncodedStringWithOptions:&lt;/code&gt;というメソッドが新たに追加され、base64 encodingが楽になりました。しかも、ios7より以前のバージョン用に、それまでprivateだった&lt;code&gt;base64Encoding&lt;/code&gt;というメソッドがpublicになりました。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>switch</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/switch/</link>
+      <pubDate>Mon, 31 Mar 2014 22:21:28 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/switch/</guid>
+      <description>&lt;h3 id=&#34;objective-cのswitchは整数値しか判定できない&#34;&gt;objective-cのswitchは整数値しか判定できない&lt;/h3&gt;
+
+&lt;p&gt;objective-cにおける&lt;code&gt;switch&lt;/code&gt;の条件式は、integral(整数値. intなど)しか受け付けません。なので、以下の様に&lt;code&gt;NSString&lt;/code&gt;のインスタンスを条件式に渡すと、構文エラーになります。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>XCTestで書いたUnit Testのリファクタリングを試みた</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/xctest-refactoring/</link>
+      <pubDate>Fri, 28 Mar 2014 16:19:32 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/xctest-refactoring/</guid>
+      <description>&lt;p&gt;XCTestで書いたUnit testのrefactoringを試みたのですが、個人的にすっきりする方法が見つかりませんでした。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

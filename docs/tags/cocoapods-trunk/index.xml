@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cocoapods Trunk on My New Hugo Site</title>
+    <link>https://parakeety.github.io/hugo-blog/tags/cocoapods-trunk/</link>
+    <description>Recent content in Cocoapods Trunk on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Sep 2014 13:22:51 -0700</lastBuildDate>
+    
+	<atom:link href="https://parakeety.github.io/hugo-blog/tags/cocoapods-trunk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>cocoapods-trunk</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/cocoapods-trunk/</link>
+      <pubDate>Thu, 18 Sep 2014 13:22:51 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/cocoapods-trunk/</guid>
+      <description>&lt;p&gt;以前&lt;a href=&#34;http://parakeety.github.io/blog/2014/04/27/registration-process-to-cocoapods-spec/&#34;&gt;cocoapods specへの登録方法&lt;/a&gt;を紹介しましたが、&lt;a href=&#34;http://blog.cocoapods.org/CocoaPods-Trunk/&#34;&gt;Cocoapods trunk&lt;/a&gt;の登場によって、やり方が変わったので、新しい方法を紹介します。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
