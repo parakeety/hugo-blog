@@ -1,5 +1,13 @@
 baseURL = "https://parakeety.github.io/hugo-blog/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Parakeety's Blog"
 theme = "pickles"
 publishDir = "docs"
+
+[params]
+  paginate = 10
+  github = "parakeety"
+  author = "parakeety"
+  authorwebsite = "http://www.parakeety.com/"
+  bio = "Software Engineer at Mercari"
+  subtitle = "iOS, Web, and Cryptocurrency"
