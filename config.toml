@@ -1,5 +1,5 @@
 baseURL = "https://parakeety.github.io/hugo-blog/"
-languageCode = "en-us"
+languageCode = "ja-jp"
 title = "Parakeety's Blog"
 theme = "pickles"
 publishDir = "docs"
