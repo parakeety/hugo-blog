@@ -8,10 +8,12 @@ tags:
 <!--more-->
 
 最近勉強しているのは
+
 - docker(今更ながら...)
 - GCP(会社でサーバーサイドが採用している)
 - blockchain(bitcoin, ethereum)
 - deep learning
+
 などなど。
 
 良い感じに習慣になってきているので、今後も積み重ねるように勉強したいです。
