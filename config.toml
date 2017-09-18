@@ -1,4 +1,4 @@
-baseURL = "https://parakeety.github.io/"
+baseURL = "https://parakeety.github.io/hugo-blog/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "pickles"
