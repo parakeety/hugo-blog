@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://parakeety.github.io/hugo-blog/posts/souzoh_ios_talk/</loc>
+    <lastmod>2017-10-14T11:50:09+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://parakeety.github.io/hugo-blog/posts/hugo/</loc>
     <lastmod>2017-09-18T21:46:06+09:00</lastmod>
   </url>
@@ -267,7 +272,7 @@
   
   <url>
     <loc>https://parakeety.github.io/hugo-blog/tags/ios/</loc>
-    <lastmod>2016-02-15T13:54:44+00:00</lastmod>
+    <lastmod>2017-10-14T11:50:09+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -357,7 +362,7 @@
   
   <url>
     <loc>https://parakeety.github.io/hugo-blog/</loc>
-    <lastmod>2017-09-18T21:46:06+09:00</lastmod>
+    <lastmod>2017-10-14T11:50:09+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -375,7 +380,7 @@
   
   <url>
     <loc>https://parakeety.github.io/hugo-blog/posts/</loc>
-    <lastmod>2017-09-18T21:46:06+09:00</lastmod>
+    <lastmod>2017-10-14T11:50:09+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -388,6 +393,12 @@
   <url>
     <loc>https://parakeety.github.io/hugo-blog/tags/python/</loc>
     <lastmod>2014-06-30T00:26:10-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/rxswift/</loc>
+    <lastmod>2017-10-14T11:50:09+09:00</lastmod>
     <priority>0</priority>
   </url>
   
