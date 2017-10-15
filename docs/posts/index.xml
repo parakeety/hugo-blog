@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Parakeety&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 14 Oct 2017 11:50:09 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Oct 2017 12:07:37 +0900</lastBuildDate>
     
 	<atom:link href="https://parakeety.github.io/hugo-blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>「プログラマのためのGoogle Cloud Platform入門」を読んだ</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/google_cloud_platform/</link>
+      <pubDate>Sat, 14 Oct 2017 12:07:37 +0900</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/google_cloud_platform/</guid>
+      <description>&lt;p&gt;現職のサーバーサイドではGCPを使っていることもあり、GCPの知識があると色々仕事が捗るため、&lt;a href=&#34;https://www.amazon.co.jp//dp/4798137146/&#34;&gt;プログラマのためのGoogle Cloud Platform入門&lt;/a&gt;を読みました。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Souzoh iOS TalkでRxSwiftを用いた実装について話しました</title>
@@ -17,9 +28,11 @@
       <pubDate>Sat, 14 Oct 2017 11:50:09 +0900</pubDate>
       
       <guid>https://parakeety.github.io/hugo-blog/posts/souzoh_ios_talk/</guid>
-      <description>2017/10/11に開催されたSouzoh iOS Talkにて、「メルカリアッテのRxSwift実装ガイド」というタイトルの発表をしました。
- 勉強会で発表するのは初めてということもあり、かなり緊張しました。 発表をしてわかったことは、
- 発表内容の調査、資料作成にとても時間がかかる code snippetを埋め込む時は、gistを作成し、gistからコピペするのが楽  本業の業務が佳境も迎えていることもあり、一時キャパオーバーになりましたが、無事に発表を終えられて良かったです。</description>
+      <description>&lt;p&gt;2017/10/11に開催されたSouzoh iOS Talkにて、「メルカリアッテのRxSwift実装ガイド」というタイトルの発表をしました。&lt;/p&gt;
+
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;cfd56684fa124fbbae249b1080204dd2&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -191,7 +204,7 @@ Octopressに対して細々とした不満があり、違う静的サイトジ�
     </item>
     
     <item>
-      <title>cocoapods-trunk</title>
+      <title>Cocoapods trunk</title>
       <link>https://parakeety.github.io/hugo-blog/posts/cocoapods-trunk/</link>
       <pubDate>Thu, 18 Sep 2014 13:22:51 -0700</pubDate>
       
@@ -343,7 +356,7 @@ Octopressに対して細々とした不満があり、違う静的サイトジ�
     </item>
     
     <item>
-      <title>objective-cでNSStringをbase64 encode</title>
+      <title>Objective-cでNSStringをbase64 encode</title>
       <link>https://parakeety.github.io/hugo-blog/posts/base64-encoding/</link>
       <pubDate>Tue, 01 Apr 2014 23:49:45 -0700</pubDate>
       
@@ -375,6 +388,22 @@ Octopressに対して細々とした不満があり、違う静的サイトジ�
       <description>&lt;p&gt;XCTestで書いたUnit testのrefactoringを試みたのですが、個人的にすっきりする方法が見つかりませんでした。&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>equality</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/equality/</link>
+      <pubDate>Fri, 28 Mar 2014 13:41:01 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/equality/</guid>
+      <description>#TODO
+equal identical
+NSObject isEqual
+Container class: deep comparison
+overriding isEqual - isEqualClassName - call isEqualClassName in isEqual - override hash
+if isEqual: determines that two objects are equal, they must have the same hash value
+NSString *a = @&amp;quot;a&amp;quot;; NSString *b = @&amp;quot;b&amp;quot;; a == b is true  use isequaltoString never use == for comparing strings. string interning
+参考記事 http://nshipster.com/equality/ https://developer.apple.com/library/ios/documentation/general/conceptual/DevPedia-CocoaCore/ObjectComparison.html</description>
     </item>
     
     <item>

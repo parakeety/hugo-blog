@@ -80,7 +80,18 @@
     </item>
     
     <item>
-      <title>objective-cでNSStringをbase64 encode</title>
+      <title>propertyの属性</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/property-attributes-in-objective-c/</link>
+      <pubDate>Sun, 04 May 2014 02:47:35 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/property-attributes-in-objective-c/</guid>
+      <description>&lt;p&gt;propertyを宣言する場合に、どの属性を指定すべきかまとめたものです。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Objective-cでNSStringをbase64 encode</title>
       <link>https://parakeety.github.io/hugo-blog/posts/base64-encoding/</link>
       <pubDate>Tue, 01 Apr 2014 23:49:45 -0700</pubDate>
       
@@ -112,6 +123,22 @@
       <description>&lt;p&gt;XCTestで書いたUnit testのrefactoringを試みたのですが、個人的にすっきりする方法が見つかりませんでした。&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>equality</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/equality/</link>
+      <pubDate>Fri, 28 Mar 2014 13:41:01 -0700</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/equality/</guid>
+      <description>#TODO
+equal identical
+NSObject isEqual
+Container class: deep comparison
+overriding isEqual - isEqualClassName - call isEqualClassName in isEqual - override hash
+if isEqual: determines that two objects are equal, they must have the same hash value
+NSString *a = @&amp;quot;a&amp;quot;; NSString *b = @&amp;quot;b&amp;quot;; a == b is true  use isequaltoString never use == for comparing strings. string interning
+参考記事 http://nshipster.com/equality/ https://developer.apple.com/library/ios/documentation/general/conceptual/DevPedia-CocoaCore/ObjectComparison.html</description>
     </item>
     
   </channel>
