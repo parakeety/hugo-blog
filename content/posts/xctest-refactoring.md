@@ -1,10 +1,7 @@
 ---
-layout: post
 title: "XCTestで書いたUnit Testのリファクタリングを試みた"
 date: 2014-03-28 16:19:32 -0700
-published: true
-comments: true
-tags: [objective-c, XCTest, Unit Test]
+tags: [Objective-c, XCTest, Unit Test]
 ---
 
 XCTestで書いたUnit testのrefactoringを試みたのですが、個人的にすっきりする方法が見つかりませんでした。

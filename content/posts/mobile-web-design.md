@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "モバイル向けのウェブサイトを作る上でのTips"
 date: 2014-06-15 01:11:03 -0700
-comments: true
 tags: [mobile, web, safari]
 ---
 

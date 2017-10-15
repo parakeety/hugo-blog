@@ -8,6 +8,8 @@ tags: [iOS, RxSwift]
 
 <script async class="speakerdeck-embed" data-id="cfd56684fa124fbbae249b1080204dd2" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
+<!--more-->
+
 勉強会で発表するのは初めてということもあり、かなり緊張しました。
 発表をしてわかったことは、
 

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Octopress始めました。"
 date: 2014-03-27 23:07:15 -0700
-comments: true
 tags:
 ---
 

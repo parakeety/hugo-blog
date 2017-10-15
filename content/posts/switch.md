@@ -1,9 +1,7 @@
 ---
-layout: post
 title: "switch"
 date: 2014-03-31 22:21:28 -0700
-comments: true
-tags: [objective-c]
+tags: [Objective-c]
 ---
 
 ### objective-cのswitchは整数値しか判定できない

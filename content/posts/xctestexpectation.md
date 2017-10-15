@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "XCTestExpectation"
 date: 2014-10-06 23:16:00 -0700
-comments: true
 tags: [XCTestExpectation, XCTest, iOS]
 ---
 

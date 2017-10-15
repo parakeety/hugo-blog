@@ -1,9 +1,7 @@
 ---
-layout: post
-title: "cocoapods-trunk"
+title: "Cocoapods trunk"
 date: 2014-09-18 13:22:51 -0700
-comments: true
-tags: [ios, cocoapods, cocoapods-trunk]
+tags: [iOS, Cocoapods, Cocoapods-trunk]
 ---
 
 以前[cocoapods specへの登録方法](http://parakeety.github.io/blog/2014/04/27/registration-process-to-cocoapods-spec/)を紹介しましたが、[Cocoapods trunk](http://blog.cocoapods.org/CocoaPods-Trunk/)の登場によって、やり方が変わったので、新しい方法を紹介します。

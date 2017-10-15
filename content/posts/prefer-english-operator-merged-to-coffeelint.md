@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "以前作ったcoffeelintのcustom ruleがcoffeelint本体に採用された"
 date: 2014-08-23 10:55:47 -0700
-comments: true
 tags: [coffeelint-prefer-english-operator, coffeelint, oss, github]
 ---
 

@@ -1,9 +1,7 @@
 ---
-layout: post
-title: "objective-cでNSStringをbase64 encode"
+title: "Objective-cでNSStringをbase64 encode"
 date: 2014-04-01 23:49:45 -0700
-comments: true
-tags: [objective-c, base64]
+tags: [Objective-c, base64]
 ---
 
 

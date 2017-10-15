@@ -1,9 +1,7 @@
 ---
-layout: post
 title: "synthesizeはいつ書く必要があるか"
 date: 2014-08-30 17:24:49 -0700
-comments: true
-tags: [ios, objective-c]
+tags: [iOS, Objective-c]
 ---
 
 compilerの進化に合わせて、objective-cにおける`property`の書き方も変化してきましたが、今回は`synthesize`について。

@@ -1,10 +1,7 @@
 ---
-layout: post
 title: "private property vs privateなインスタンス変数"
 date: 2014-05-11 03:46:29 -0700
-published: true
-comments: true
-tags: [objective-c]
+tags: [Objective-c]
 ---
 
 外部から隠蔽したい状態を保持するには、privateな`property`とprivateなインスタンス変数と2通りのやり方があります。

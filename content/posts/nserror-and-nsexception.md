@@ -1,9 +1,7 @@
 ---
-layout: post
 title: "NSErrorとNSException"
 date: 2014-12-30 17:23:39 -0800
-comments: true
-tags: [iOS, objective-c, swift, NSError, NSException]
+tags: [iOS, Objective-c, Swift, NSError, NSException]
 ---
 
 Cocoaには、エラーが起きた時の対処方法として、`NSError`と`NSException`があります。

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "middlemanで作ったportfolioをS3で運用"
 date: 2014-11-22 01:22:05 -0800
-comments: true
 tags: [middleman, s3, namecheap, portfolio]
 ---
 

@@ -1,9 +1,7 @@
 ---
-layout: post
 title: "アプリやiosライブラリを作って感じたこと"
 date: 2014-05-25 02:32:41 -0700
-comments: true
-tags: [ios, objective-c, xctest]
+tags: [iOS, Objective-c, xctest]
 ---
 
 ## Viewは最初の設計でうまくいかない事が多い

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "開発ツール"
 date: 2014-07-05 02:42:35 -0700
-comments: true
 tags: [z, tig, ghq, peco]
 ---
 

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "agがとても便利"
 date: 2014-10-18 16:02:07 -0700
-comments: true
 tags: [ag, ack, grep]
 ---
 `ack`より、'better'と主張している[ag(silver search)](https://github.com/ggreer/the_silver_searcher)を入れました。

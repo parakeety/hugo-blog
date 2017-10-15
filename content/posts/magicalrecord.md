@@ -1,9 +1,7 @@
 ---
-layout: post
 title: "Core Dataで書かれたコードをMagicalRecordで置き換えた"
 date: 2014-12-17 01:29:52 -0800
-comments: true
-tags: [iOS, MagicalRecord, 'magical record']
+tags: [iOS, MagicalRecord]
 ---
 
 昔作ったアプリを今修正しているのですが、Core Data周りのコードが書くのが辛かったので、[MagicalRecord](https://github.com/magicalpanda/MagicalRecord)に移行しました。

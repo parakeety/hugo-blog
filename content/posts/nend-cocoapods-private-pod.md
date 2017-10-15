@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "nend SDKをCocoaPodsのPrivate Podsとして管理する"
 date: 2014-06-22 00:57:48 -0700
-comments: true
 tags: [iOS, CocoaPods, nend]
 ---
 

@@ -1,9 +1,7 @@
 ---
-layout: post
 title: "NSDateFormatterの再利用"
 date: 2014-10-27 11:40:17 -0700
-comments: true
-tags: [iOS, NSDateFormatter, objective-c]
+tags: [iOS, NSDateFormatter, Objective-c]
 ---
 `NSDateFormatter`を含む`NSFormatter`クラスは、生成コストが高いのでなるべく再利用します。
 

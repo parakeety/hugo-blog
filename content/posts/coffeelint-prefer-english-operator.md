@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "coffeelintのcustom ruleを作った"
 date: 2014-05-31 22:28:05 -0700
-comments: true
 tags: [coffeescript, coffeelint, custom rule, npm]
 ---
 

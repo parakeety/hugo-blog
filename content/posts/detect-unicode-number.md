@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "文字からUnicode numberを識別する"
 date: 2014-06-30 00:26:10 -0700
-comments: true
 tags: [unicode, python]
 ---
 
@@ -12,4 +10,3 @@ tags: [unicode, python]
 # detect ―(0x2015)
 print hex(ord(u'―'))
 ```
-

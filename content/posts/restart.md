@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "再起動"
 date: 2015-06-16 14:17:31 +0900
-comments: true
 tags:
 ---
 

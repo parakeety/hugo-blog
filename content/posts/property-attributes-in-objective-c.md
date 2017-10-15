@@ -1,9 +1,7 @@
 ---
-layout: post
 title: "propertyの属性"
 date: 2014-05-04 02:47:35 -0700
-comments: true
-tags:
+tags: [Objective-c]
 ---
 
 propertyを宣言する場合に、どの属性を指定すべきかまとめたものです。

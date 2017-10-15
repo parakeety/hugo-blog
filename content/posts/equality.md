@@ -1,10 +1,7 @@
 ---
-layout: post
 title: "equality"
 date: 2014-03-28 13:41:01 -0700
-published: false
-comments: true
-tags: [iOS, objective-c]
+tags: [iOS, Objective-c]
 ---
 
 #TODO

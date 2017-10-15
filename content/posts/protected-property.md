@@ -1,9 +1,7 @@
 ---
-layout: post
 title: "objective-cにおけるprotectedなpropertyの定義方法"
 date: 2014-05-18 21:39:37 -0700
-comments: true
-tags: [objective-c, ios]
+tags: [Objective-c, iOS]
 ---
 
 privateな`property`は`class extension`を使えば良いですが、`protected`、即ち`subclass`からもアクセスできる`property`が欲しい場合どうするか。
