@@ -4,9 +4,9 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
   
-  <title>「プログラマのためのGoogle Cloud Platform入門」を読んだ</title>
-  <meta property="og:title" content="「プログラマのためのGoogle Cloud Platform入門」を読んだ" />
-  <meta name="twitter:title" content="「プログラマのためのGoogle Cloud Platform入門」を読んだ" />
+  <title>BitcoinのフルノードをVPS上のDockerで運用</title>
+  <meta property="og:title" content="BitcoinのフルノードをVPS上のDockerで運用" />
+  <meta name="twitter:title" content="BitcoinのフルノードをVPS上のDockerで運用" />
   
 
   
@@ -17,7 +17,7 @@
 
   <meta name="author" content="parakeety"/>
   <meta property="og:site_name" content="Parakeety&#39;s Blog" />
-  <meta property="og:url" content="https://parakeety.github.io/hugo-blog/posts/google_cloud_platform/" />
+  <meta property="og:url" content="https://parakeety.github.io/hugo-blog/posts/bitcoin-full-node-docker-vps/" />
 
   
   <meta name="twitter:card" content="summary" />
@@ -54,27 +54,62 @@
 
 <article class="p-article">
   <header>
-    <h1>「プログラマのためのGoogle Cloud Platform入門」を読んだ</h1>
+    <h1>BitcoinのフルノードをVPS上のDockerで運用</h1>
     <div>
       <div class="c-time">
         Posted on
-        <time datetime="2017-10-14T12:07:37&#43;09:00">
-          Oct 14, 2017
+        <time datetime="2017-11-17T19:40:20&#43;09:00">
+          Nov 17, 2017
         </time>
       </div>
-      
-      <a href="https://parakeety.github.io/hugo-blog/tags/gcp" class="c-tag">GCP</a>
-      
-      <a href="https://parakeety.github.io/hugo-blog/tags/cloud" class="c-tag">cloud</a>
       
     </div>
   </header>
   <section id="js-article" class="p-article__body">
-    <p>現職のサーバーサイドではGCPを使っていることもあり、GCPの知識があると色々仕事が捗るため、<a href="https://www.amazon.co.jp//dp/4798137146/">プログラマのためのGoogle Cloud Platform入門</a>を読みました。</p>
+    <p>勉強も兼ねて、Bitcoin Core(いわゆるfull node)をVPS上のDockerで運用し始めました。</p>
 
 <p></p>
 
-<p>GCPの各サービス(Google Compute Engine, Google Container Engine, Google App Engine, Cloud SQL, Cloud Datastore, Cloud storage)の概要が把握できて良かったです。多分GCEはあまり触る事がなく、GKEとGAEがメインになりそうな予感がします。あとは実際のプロジェクトを見ながら勉強していくのが良さそう。</p>
+<h2 id="構成">構成</h2>
+
+<ul>
+<li>さくらVPS</li>
+<li>HDD: 200GB(少なくとも145GB必要 *2017/11/17時点)</li>
+<li>CentOS 7</li>
+<li>Docker</li>
+</ul>
+
+<p>Docker imageは、<code>bitcoin.conf</code>という設定ファイルに<code>txindex=1</code>を追加したかったので、<a href="https://github.com/jamesob/docker-bitcoind">jamesob/docker-bicoind</a>を元に自前の<a href="https://github.com/parakeety/docker-bitcoind">Dockerfile</a>を作成して使っています。
+Bitcoin CoreにはRPCサーバーがついていて、JSON-RPCでBitcoin Coreと通信ができるのですが、<code>bitcoin.conf</code>にRPCのusernameとpasswordを指定し、<code>docker run</code>する時に指定する必要があります。</p>
+
+<pre><code># bitcoin.conf
+txindex=1
+rpcuser=username
+rpcpassword=password
+rpcport=8332
+</code></pre>
+
+<pre><code>docker run --name bitcoind -d \
+    --env 'BTC_RPCUSER=username' \
+    --env 'BTC_RPCPASSWORD=password' \
+     -v data_volume:/bitcoin \
+     -p 8333:8333 \
+     -p 127.0.0.1:8332:8332 \
+     parakeety/bitcoind-test
+</code></pre>
+
+<h2 id="運用を始めて">運用を始めて</h2>
+
+<p>ブロックの同期にかなり時間がかかっています。bitcoindを走らせてから4日ほど経っていますが、Blockの同期がまだ終わっていません。Block heightが426524まで来ているので、あと少しで最新のBlockまで追いつきそうです。
+フルノードを運用するインセンティブとしては、</p>
+
+<ol>
+<li>networkへの貢献</li>
+<li>privacy</li>
+</ol>
+
+<p>くらいでしょうか。Bitcoin-cliを勉強することが目的なら、testnetで十分な気がします。今回運用を始めたのは、運用経験を積んでおきたかったからというのが大きいです。
+Bitcoin-cliを触りつつ、その内Raspberry PiとGKEに移す事を考えています。</p>
   </section>
   <footer>
     
@@ -82,12 +117,11 @@
       <div class="c-pagination__ctrl">
         <div class="c-pagination__newer">
           
-          <a href="https://parakeety.github.io/hugo-blog/posts/bitcoin-full-node-docker-vps/">Newer</a>
           
         </div>
         <div class="c-pagination__older">
           
-          <a href="https://parakeety.github.io/hugo-blog/posts/souzoh_ios_talk/">Older</a>
+          <a href="https://parakeety.github.io/hugo-blog/posts/google_cloud_platform/">Older</a>
           
         </div>
       </div>

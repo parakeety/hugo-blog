@@ -6,10 +6,21 @@
     <description>Recent content on Parakeety&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 14 Oct 2017 12:07:37 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Nov 2017 19:40:20 +0900</lastBuildDate>
     
 	<atom:link href="https://parakeety.github.io/hugo-blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BitcoinのフルノードをVPS上のDockerで運用</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/bitcoin-full-node-docker-vps/</link>
+      <pubDate>Fri, 17 Nov 2017 19:40:20 +0900</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/bitcoin-full-node-docker-vps/</guid>
+      <description>&lt;p&gt;勉強も兼ねて、Bitcoin Core(いわゆるfull node)をVPS上のDockerで運用し始めました。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>「プログラマのためのGoogle Cloud Platform入門」を読んだ</title>
