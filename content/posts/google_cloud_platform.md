@@ -1,5 +1,5 @@
 ---
-title: "「プログラマのためのGoogle Cloud Platform入門」を読んだ"
+title: "「プログラマのためのGoogle Cloud Platform入門」読了"
 date: 2017-10-14T12:07:37+09:00
 tags: [GCP, cloud]
 ---
