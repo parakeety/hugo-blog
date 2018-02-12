@@ -1,6 +1,10 @@
 ---
 title: "Lightning Networkのノードを立てた"
 date: 2018-02-12T09:50:00+09:00
+tags:
+  - Bitcoin
+  - Lightning Network
+  - Cryptocurrency
 ---
 
 Lightning Networkのノードをmainnetに立てました。基本的には[Run your own mainnet Lightning Node](https://medium.com/@dougvk/run-your-own-mainnet-lightning-node-2d2eab628a8b)に従ってやりました。

@@ -222,6 +222,12 @@
   </url>
   
   <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/bitcoin/</loc>
+    <lastmod>2018-02-12T09:50:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://parakeety.github.io/hugo-blog/categories/</loc>
     <priority>0</priority>
   </url>
@@ -269,6 +275,12 @@
   </url>
   
   <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/cryptocurrency/</loc>
+    <lastmod>2018-02-12T09:50:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://parakeety.github.io/hugo-blog/tags/custom-rule/</loc>
     <lastmod>2014-05-31T22:28:05-07:00</lastmod>
     <priority>0</priority>
@@ -289,6 +301,12 @@
   <url>
     <loc>https://parakeety.github.io/hugo-blog/tags/github/</loc>
     <lastmod>2014-08-23T10:55:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/go/</loc>
+    <lastmod>2018-01-31T11:02:32+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -331,6 +349,12 @@
   <url>
     <loc>https://parakeety.github.io/hugo-blog/tags/jobchange/</loc>
     <lastmod>2017-01-01T16:02:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/lightning-network/</loc>
+    <lastmod>2018-02-12T09:50:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -433,6 +457,12 @@
   <url>
     <loc>https://parakeety.github.io/hugo-blog/tags/python/</loc>
     <lastmod>2014-06-30T00:26:10-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parakeety.github.io/hugo-blog/tags/raspberry-pi/</loc>
+    <lastmod>2018-02-09T10:33:45+09:00</lastmod>
     <priority>0</priority>
   </url>
   

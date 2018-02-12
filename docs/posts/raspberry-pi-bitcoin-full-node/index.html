@@ -63,6 +63,12 @@
         </time>
       </div>
       
+      <a href="https://parakeety.github.io/hugo-blog/tags/raspberry-pi" class="c-tag">Raspberry Pi</a>
+      
+      <a href="https://parakeety.github.io/hugo-blog/tags/bitcoin" class="c-tag">Bitcoin</a>
+      
+      <a href="https://parakeety.github.io/hugo-blog/tags/cryptocurrency" class="c-tag">Cryptocurrency</a>
+      
     </div>
   </header>
   <section id="js-article" class="p-article__body">
@@ -83,26 +89,26 @@
 <h2 id="手順">手順</h2>
 
 <ol>
-<li>raspberry pi setup(OSインストールから、SSHのsetupまで)</li>
+<li>Raspberry Pi setup(OSインストールから、SSHのsetupまで)</li>
 <li>外付けのハードディスクのmount</li>
 <li>swapの設定</li>
 <li>Dockerのインストール</li>
 <li>Docker container起動</li>
 </ol>
 
-<h2 id="1-raspberry-pi-setup">1. raspberry pi setup</h2>
+<h2 id="1-raspberry-pi-setup">1. Raspberry Pi setup</h2>
 
-<p>まずraspberry piのsetupをします。</p>
+<p>まずRaspberry Piのsetupをします。</p>
 
 <ul>
 <li>raspbianをインストール</li>
 <li>pi userのパスワード変更</li>
 <li>新規userを作成し、piを削除</li>
-<li><code>ssh-copy-id</code>を使って公開鍵をraspberry piにコピー</li>
+<li><code>ssh-copy-id</code>を使って公開鍵をRaspberry Piにコピー</li>
 <li>sshのportを変えたり、passwordログインやrootでのログインを禁止する</li>
 </ul>
 
-<p>私はmoshを使っているので、moshもraspberry piにインストールしました。</p>
+<p>私はmoshを使っているので、moshもRaspberry Piにインストールしました。</p>
 
 <h2 id="2-外付けのハードディスクのmount">2. 外付けのハードディスクのmount</h2>
 
@@ -110,7 +116,7 @@
 
 <h2 id="3-swapの設定">3. swapの設定</h2>
 
-<p>raspberry piはメモリが1GBしかないため、bitcoindを走らせるためにはメモリが結構ギリギリです。swapの設定を何もしなかったら、<code>Out of memory</code>でbitcoindがエラーで終了しました。</p>
+<p>Raspberry Piはメモリが1GBしかないため、bitcoindを走らせるためにはメモリが結構ギリギリです。swapの設定を何もしなかったら、<code>Out of memory</code>でbitcoindがエラーで終了しました。</p>
 
 <pre><code class="language-sh"># /etc/dphys-swapfile
 CONF_SWAPSIZE=1000 #100から1000に変更
@@ -129,10 +135,10 @@ $ dphys-swapfile swapon
 
 <h2 id="5-docker-container起動">5. Docker container起動</h2>
 
-<p>raspberry piでDockerを扱う場合に一つ注意が必要なのは、raspberry piのCPUはARMなので、x86向けにbuildされたDocker imageが使えません。
+<p>Raspberry PiでDockerを扱う場合に一つ注意が必要なのは、Raspberry PiのCPUはARMなので、x86向けにbuildされたDocker imageが使えません。
 なので多くのDocker imageがそのままでは使えないので、自分でimageを作る必要があります。
 今回は<a href="https://github.com/jamesob/docker-bitcoind">jamesob/docker-bitcoind</a>をforkして<a href="https://github.com/parakeety/docker-bitcoind">自分でimage</a>を作るようにしました。
-baseイメージをraspberry pi向けに<code>arm32v7/ubuntu</code>に変更したのと、メモリが足りなくなるのを防ぐために<code>bitcoin.conf</code>をいくつか変更しました。</p>
+baseイメージをRaspberry Pi向けに<code>arm32v7/ubuntu</code>に変更したのと、メモリが足りなくなるのを防ぐために<code>bitcoin.conf</code>をいくつか変更しました。</p>
 
 <pre><code>blocksonly=1
 dbcache=20
@@ -154,7 +160,7 @@ parakeety/bitcoind-test
 
 <h2 id="同期速度">同期速度</h2>
 
-<p>bitcoin full nodeはblockの同期時に、署名の検証もしている様で、マシンパワーが同期速度にかなり影響します。Digital Oceanで借りたインスタンス(6vCPU, memory 16GB)だと12時間で同期が終わったのに対し、raspberry piは3日経った今でも最新のblockまで同期が完了していません。急ぎの場合は、raspberry piではなく、もっとスペックの良いマシンでfull nodeを立てた方が良さそうです。</p>
+<p>bitcoin full nodeはblockの同期時に、署名の検証もしている様で、マシンパワーが同期速度にかなり影響します。Digital Oceanで借りたインスタンス(6vCPU, memory 16GB)だと12時間で同期が終わったのに対し、Raspberry Piは3日経った今でも最新のblockまで同期が完了していません。急ぎの場合は、Raspberry Piではなく、もっとスペックの良いマシンでfull nodeを立てた方が良さそうです。</p>
   </section>
   <footer>
     

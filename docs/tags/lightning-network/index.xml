@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lightning Network on Parakeety&#39;s Blog</title>
+    <link>https://parakeety.github.io/hugo-blog/tags/lightning-network/</link>
+    <description>Recent content in Lightning Network on Parakeety&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 12 Feb 2018 09:50:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://parakeety.github.io/hugo-blog/tags/lightning-network/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lightning Networkのノードを立てた</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/lightning-network-node/</link>
+      <pubDate>Mon, 12 Feb 2018 09:50:00 +0900</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/lightning-network-node/</guid>
+      <description>&lt;p&gt;Lightning Networkのノードをmainnetに立てました。基本的には&lt;a href=&#34;https://medium.com/@dougvk/run-your-own-mainnet-lightning-node-2d2eab628a8b&#34;&gt;Run your own mainnet Lightning Node&lt;/a&gt;に従ってやりました。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

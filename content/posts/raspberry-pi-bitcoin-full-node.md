@@ -1,6 +1,10 @@
 ---
 title: "Raspberry Pi Bitcoin Full Node"
 date: 2018-02-09T10:33:45+09:00
+tags:
+  - Raspberry Pi
+  - Bitcoin
+  - Cryptocurrency
 ---
 
 Raspberry PiにBitcoinのフルノードを立てました。
@@ -15,28 +19,28 @@ Raspberry PiにBitcoinのフルノードを立てました。
 Bitcoinのフルノードは、データサイズが200GB近くあるので、外付けのハードディスク(2TB)を買いました。
 
 ## 手順
-1. raspberry pi setup(OSインストールから、SSHのsetupまで)
+1. Raspberry Pi setup(OSインストールから、SSHのsetupまで)
 2. 外付けのハードディスクのmount
 3. swapの設定
 4. Dockerのインストール
 5. Docker container起動
 
-## 1. raspberry pi setup
-まずraspberry piのsetupをします。
+## 1. Raspberry Pi setup
+まずRaspberry Piのsetupをします。
 
 - raspbianをインストール
 - pi userのパスワード変更
 - 新規userを作成し、piを削除
-- `ssh-copy-id`を使って公開鍵をraspberry piにコピー
+- `ssh-copy-id`を使って公開鍵をRaspberry Piにコピー
 - sshのportを変えたり、passwordログインやrootでのログインを禁止する
 
-私はmoshを使っているので、moshもraspberry piにインストールしました。
+私はmoshを使っているので、moshもRaspberry Piにインストールしました。
 
 ## 2. 外付けのハードディスクのmount
 [この記事](http://sooch.hatenablog.com/entry/2017/03/26/061032)の様に、ext4にformatして、mount
 
 ## 3. swapの設定
-raspberry piはメモリが1GBしかないため、bitcoindを走らせるためにはメモリが結構ギリギリです。swapの設定を何もしなかったら、`Out of memory`でbitcoindがエラーで終了しました。
+Raspberry Piはメモリが1GBしかないため、bitcoindを走らせるためにはメモリが結構ギリギリです。swapの設定を何もしなかったら、`Out of memory`でbitcoindがエラーで終了しました。
 
 ```sh
 # /etc/dphys-swapfile
@@ -56,10 +60,10 @@ $ curl -sSL https://get.docker.com | sh
 を実行して、Dockerをインストールします。
 
 ## 5. Docker container起動
-raspberry piでDockerを扱う場合に一つ注意が必要なのは、raspberry piのCPUはARMなので、x86向けにbuildされたDocker imageが使えません。
+Raspberry PiでDockerを扱う場合に一つ注意が必要なのは、Raspberry PiのCPUはARMなので、x86向けにbuildされたDocker imageが使えません。
 なので多くのDocker imageがそのままでは使えないので、自分でimageを作る必要があります。
 今回は[jamesob/docker-bitcoind](https://github.com/jamesob/docker-bitcoind)をforkして[自分でimage](https://github.com/parakeety/docker-bitcoind)を作るようにしました。
-baseイメージをraspberry pi向けに`arm32v7/ubuntu`に変更したのと、メモリが足りなくなるのを防ぐために`bitcoin.conf`をいくつか変更しました。
+baseイメージをRaspberry Pi向けに`arm32v7/ubuntu`に変更したのと、メモリが足りなくなるのを防ぐために`bitcoin.conf`をいくつか変更しました。
 
 ```
 blocksonly=1
@@ -81,4 +85,4 @@ parakeety/bitcoind-test
 ```
 
 ## 同期速度
-bitcoin full nodeはblockの同期時に、署名の検証もしている様で、マシンパワーが同期速度にかなり影響します。Digital Oceanで借りたインスタンス(6vCPU, memory 16GB)だと12時間で同期が終わったのに対し、raspberry piは3日経った今でも最新のblockまで同期が完了していません。急ぎの場合は、raspberry piではなく、もっとスペックの良いマシンでfull nodeを立てた方が良さそうです。
+bitcoin full nodeはblockの同期時に、署名の検証もしている様で、マシンパワーが同期速度にかなり影響します。Digital Oceanで借りたインスタンス(6vCPU, memory 16GB)だと12時間で同期が終わったのに対し、Raspberry Piは3日経った今でも最新のblockまで同期が完了していません。急ぎの場合は、Raspberry Piではなく、もっとスペックの良いマシンでfull nodeを立てた方が良さそうです。
