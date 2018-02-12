@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Parakeety&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 18 Nov 2017 08:00:03 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2018 09:50:00 +0900</lastBuildDate>
     
 	<atom:link href="https://parakeety.github.io/hugo-blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lightning Networkのノードを立てた</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/lightning-network-node/</link>
+      <pubDate>Mon, 12 Feb 2018 09:50:00 +0900</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/lightning-network-node/</guid>
+      <description>&lt;p&gt;Lightning Networkのノードをmainnetに立てました。基本的には&lt;a href=&#34;https://medium.com/@dougvk/run-your-own-mainnet-lightning-node-2d2eab628a8b&#34;&gt;Run your own mainnet Lightning Node&lt;/a&gt;に従ってやりました。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>「プログラミング経験者がGo言語を本格的に勉強する前に読むための本」読了</title>
@@ -41,6 +52,8 @@
       <guid>https://parakeety.github.io/hugo-blog/posts/zero-linux-server/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/4798146374&#34;&gt;「ゼロからはじめるLinuxサーバー構築・運用ガイド」&lt;/a&gt;を読了しました。&lt;/p&gt;
 
+&lt;p&gt;普段の開発では、PaaSを使うか、あるいはインフラエンジニアに頼り切りになる事が多かったため、インフラを触った事があまりありませんでした。Bitcoindや各種仮想通貨のノードの運用経験を積みたい事もあって、インフラの入門本を探していたのですが、まさに自分が探していた本でした。&lt;/p&gt;
+
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
@@ -50,9 +63,8 @@
       <pubDate>Sat, 14 Oct 2017 12:07:37 +0900</pubDate>
       
       <guid>https://parakeety.github.io/hugo-blog/posts/google_cloud_platform/</guid>
-      <description>&lt;p&gt;現職のサーバーサイドではGCPを使っていることもあり、GCPの知識があると色々仕事が捗るため、&lt;a href=&#34;https://www.amazon.co.jp//dp/4798137146/&#34;&gt;プログラマのためのGoogle Cloud Platform入門&lt;/a&gt;を読みました。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>現職のサーバーサイドではGCPを使っていることもあり、GCPの知識があると色々仕事が捗るため、プログラマのためのGoogle Cloud Platform入門を読みました。
+GCPの各サービス(Google Compute Engine, Google Container Engine, Google App Engine, Cloud SQL, Cloud Datastore, Cloud storage)の概要が把握できて良かったです。多分GCEはあまり触る事がなく、GKEとGAEがメインになりそうな予感がします。あとは実際のプロジェクトを見ながら勉強していくのが良さそう。</description>
     </item>
     
     <item>

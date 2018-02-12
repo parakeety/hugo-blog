@@ -17,9 +17,8 @@
       <pubDate>Sat, 14 Oct 2017 12:07:37 +0900</pubDate>
       
       <guid>https://parakeety.github.io/hugo-blog/posts/google_cloud_platform/</guid>
-      <description>&lt;p&gt;現職のサーバーサイドではGCPを使っていることもあり、GCPの知識があると色々仕事が捗るため、&lt;a href=&#34;https://www.amazon.co.jp//dp/4798137146/&#34;&gt;プログラマのためのGoogle Cloud Platform入門&lt;/a&gt;を読みました。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>現職のサーバーサイドではGCPを使っていることもあり、GCPの知識があると色々仕事が捗るため、プログラマのためのGoogle Cloud Platform入門を読みました。
+GCPの各サービス(Google Compute Engine, Google Container Engine, Google App Engine, Cloud SQL, Cloud Datastore, Cloud storage)の概要が把握できて良かったです。多分GCEはあまり触る事がなく、GKEとGAEがメインになりそうな予感がします。あとは実際のプロジェクトを見ながら勉強していくのが良さそう。</description>
     </item>
     
   </channel>
