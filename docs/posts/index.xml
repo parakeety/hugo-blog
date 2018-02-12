@@ -23,6 +23,30 @@
     </item>
     
     <item>
+      <title>Raspberry Pi Bitcoin Full Node</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/raspberry-pi-bitcoin-full-node/</link>
+      <pubDate>Fri, 09 Feb 2018 10:33:45 +0900</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/raspberry-pi-bitcoin-full-node/</guid>
+      <description>&lt;p&gt;Raspberry PiにBitcoinのフルノードを立てました。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>スターティングGo言語読了</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/starting-go/</link>
+      <pubDate>Wed, 31 Jan 2018 11:02:32 +0900</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/starting-go/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/4798142417&#34;&gt;スターティングGo言語&lt;/a&gt;を読み終わりました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/lightningnetwork/lnd&#34;&gt;lnd&lt;/a&gt;にcontributeにしたいなと調べていたら、lndはGoで書かれており、&lt;a href=&#34;https://github.com/lightningnetwork/lnd/blob/master/docs/code_contribution_guidelines.md&#34;&gt;contribution guide&lt;/a&gt;のRequired Readingに&lt;a href=&#34;https://golang.org/doc/effective_go.html&#34;&gt;effective go&lt;/a&gt;があり、effective go読む前にもっと基礎的な部分を勉強しようと思い、スターティングGo言語を手に取りました。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>「プログラミング経験者がGo言語を本格的に勉強する前に読むための本」読了</title>
       <link>https://parakeety.github.io/hugo-blog/posts/golang-mouse/</link>
       <pubDate>Sat, 18 Nov 2017 08:00:03 +0900</pubDate>
