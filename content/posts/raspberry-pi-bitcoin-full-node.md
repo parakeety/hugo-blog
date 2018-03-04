@@ -1,5 +1,5 @@
 ---
-title: "Raspberry Pi Bitcoin Full Node"
+title: "Raspberry PiでBitcoinのフルノードを立てた"
 date: 2018-02-09T10:33:45+09:00
 tags:
   - Raspberry Pi

@@ -6,10 +6,21 @@
     <description>Recent content on Parakeety&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 12 Feb 2018 09:50:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 04 Mar 2018 15:24:21 +0900</lastBuildDate>
     
 	<atom:link href="https://parakeety.github.io/hugo-blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ergodox購入</title>
+      <link>https://parakeety.github.io/hugo-blog/posts/ergodox/</link>
+      <pubDate>Sun, 04 Mar 2018 15:24:21 +0900</pubDate>
+      
+      <guid>https://parakeety.github.io/hugo-blog/posts/ergodox/</guid>
+      <description>&lt;p&gt;今までMacbook Proで作業していましたが、ひどい肩こりに悩まされたため、セパレート式のメカニカルキーボードであるErgodoxを購入しました。Ergodoxを使い始めてから2週間ほど経ちますが、肩こりが劇的に改善されて、少々高かったですが買って良かったなと満足しています。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Lightning Networkのノードを立てた</title>
@@ -23,7 +34,7 @@
     </item>
     
     <item>
-      <title>Raspberry Pi Bitcoin Full Node</title>
+      <title>Raspberry PiでBitcoinのフルノードを立てた</title>
       <link>https://parakeety.github.io/hugo-blog/posts/raspberry-pi-bitcoin-full-node/</link>
       <pubDate>Fri, 09 Feb 2018 10:33:45 +0900</pubDate>
       
@@ -34,7 +45,7 @@
     </item>
     
     <item>
-      <title>スターティングGo言語読了</title>
+      <title>「スターティングGo言語」読了</title>
       <link>https://parakeety.github.io/hugo-blog/posts/starting-go/</link>
       <pubDate>Wed, 31 Jan 2018 11:02:32 +0900</pubDate>
       
