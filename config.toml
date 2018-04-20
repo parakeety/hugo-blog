@@ -1,10 +1,12 @@
 languageCode = "ja-jp"
 title = "Parakeety's Blog"
 theme = "pickles"
+baseURL = "https://parakeety.github.io/"
 
 [params]
   paginate = 10
   github = "parakeety"
+  name = "parakeety"
   author = "parakeety"
   authorwebsite = "http://www.parakeety.com/"
   bio = "Software Engineer at Mercari"
