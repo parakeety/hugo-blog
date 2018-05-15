@@ -2,6 +2,7 @@ languageCode = "ja-jp"
 title = "Parakeety's Blog"
 theme = "pickles"
 baseURL = "https://parakeety.github.io/"
+googleAnalytics = "{UA-64117421-1}"
 
 [params]
   paginate = 10
