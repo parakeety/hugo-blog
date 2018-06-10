@@ -1,9 +1,10 @@
 ---
 title: "xcenvで複数のXCodeを管理"
 date: 2017-11-17T19:28:59+09:00
-draft: true
 ---
 XCodeのversionとSwiftのversionは紐付いており、プロジェクトによってはSwiftの新versionに対応していない、依存ライブラリをまだ更新していないなど、複数のversionのXCodeを手元に置いておきたいことがiOS開発をしていると多々あります。
+
+<!--more-->
 
 複数のXCodeを手元で共存させたい時は、`XCode9.1.app`のように`XCode.app`をrenameして、XCodeのversionを切り替えたい時は、`xcode-select`で使いたいversionのXCodeへのpathを設定しないといけないです。
 
